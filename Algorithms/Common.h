@@ -6,5 +6,6 @@
 #include <stdint.h>
 
 uint32_t insertion_sort( int n, char *list );
+uint32_t selection_sort( int n, char *list );
 
 #endif
