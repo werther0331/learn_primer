@@ -3,6 +3,8 @@
 
 
 #include <stdio.h>
+#include <stdint.h>
 
+uint32_t insertion_sort( int n, char *list );
 
 #endif
